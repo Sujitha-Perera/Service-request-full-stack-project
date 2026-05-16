@@ -88,6 +88,8 @@ PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
+//Use this as URI:mongodb+srv://sujithascc1_db_user:Signlogin1@service.8m2fbkk.mongodb.net/?appName=Service
+
 ```
 
 ### Frontend (frontend/.env.local)
