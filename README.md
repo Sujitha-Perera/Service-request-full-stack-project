@@ -129,4 +129,12 @@ Run from the backend folder:
 cd backend
 node src/seed/seed.js
 ```
-
+###Live Deployments:
+```
+##Frontend (Vercel):
+```
+https://service-request-project-frontend.vercel.app/
+```
+##Backend (Render):
+https://service-request-project-backend.onrender.com/
+```
