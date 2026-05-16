@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Space+Grotesk:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+body {
+  font-family: "Space Grotesk", "Segoe UI", sans-serif;
+  color: #e2e8f0;
+  background: radial-gradient(circle at top, rgba(168, 85, 247, 0.25), transparent 55%),
+    linear-gradient(135deg, #1e0b3a 0%, #120824 50%, #0b1025 100%);
+  min-height: 100vh;
+}
+
+select option {
+  background-color: #1a1033;
+  color: #e9d5ff;
+}
